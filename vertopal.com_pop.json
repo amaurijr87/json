@@ -1,1 +1,62 @@
-{"[\n  {\n    \"key\": \"VN\",\n    \"latitude\": -25.697862659497552,\n    \"longitude\": -49.30212193556489,\n    \"name\": \"Veneza\"\n  },\n  {\n    \"key\": \"GA\",\n    \"latitude\": -25.665634863345165,\n    \"longitude\": -49.31348741225306,\n    \"name\": \"Gralha Azul\"\n  },\n {\n    \"key\": \"ES\",\n    \"latitude\": -25.687088795104607,\n    \"longitude\": -49.32650395281158,\n    \"name\": \"Estados\"\n  },\n {\n    \"key\": \"CX\",\n    \"latitude\": -25.62666247566211,\n    \"longitude\": -49.34871849999999,\n    \"name\": \"Caximba\"\n  },\n {\n    \"key\": \"ST\",\n    \"latitude\": -25.66764082592893,\n    \"longitude\": -49.33099843545614,\n    \"name\": \"Santa Terezinha\"\n  },\n {\n    \"key\": \"SR\",\n    \"latitude\": -25.65256323023613,\n    \"longitude\": -49.32386177824277,\n    \"name\": \"S\u00e3o Romualdo\"\n  },\n {\n    \"key\": \"TT\",\n    \"latitude\": -25.564510154092922,\n    \"longitude\": -49.336943990611935,\n    \"name\": \"Tatuquara\"\n  },\n {\n    \"key\": \"NM\",\n    \"latitude\": -25.485633528661932,\n    \"longitude\": -49.3065489547001,\n    \"name\": \"Novo Mundo\"\n  },\n {\n    \"key\": \"PL\",\n    \"latitude\": -25.470298604956575,\n    \"longitude\": -49.26515294769288,\n    \"name\": \"Parolin\"\n  },\n {\n    \"key\": \"AR\",\n    \"latitude\": -25.541938796521848,\n    \"longitude\": -49.38679791556106,\n    \"name\": \"Araucaria\"\n  },\n]": null}
+[
+  {
+    "key": "VN",
+    "latitude": -25.697862659497552,
+    "longitude": -49.30212193556489,
+    "name": "Veneza"
+  },
+  {
+    "key": "GA",
+    "latitude": -25.665634863345165,
+    "longitude": -49.31348741225306,
+    "name": "Gralha Azul"
+  },
+ {
+    "key": "ES",
+    "latitude": -25.687088795104607,
+    "longitude": -49.32650395281158,
+    "name": "Estados"
+  },
+ {
+    "key": "CX",
+    "latitude": -25.62666247566211,
+    "longitude": -49.34871849999999,
+    "name": "Caximba"
+  },
+ {
+    "key": "ST",
+    "latitude": -25.66764082592893,
+    "longitude": -49.33099843545614,
+    "name": "Santa Terezinha"
+  },
+ {
+    "key": "SR",
+    "latitude": -25.65256323023613,
+    "longitude": -49.32386177824277,
+    "name": "São Romualdo"
+  },
+ {
+    "key": "TT",
+    "latitude": -25.564510154092922,
+    "longitude": -49.336943990611935,
+    "name": "Tatuquara"
+  },
+ {
+    "key": "NM",
+    "latitude": -25.485633528661932,
+    "longitude": -49.3065489547001,
+    "name": "Novo Mundo"
+  },
+ {
+    "key": "PL",
+    "latitude": -25.470298604956575,
+    "longitude": -49.26515294769288,
+    "name": "Parolin"
+  },
+ {
+    "key": "AR",
+    "latitude": -25.541938796521848,
+    "longitude": -49.38679791556106,
+    "name": "Araucaria"
+  },
+]
